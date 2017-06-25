@@ -45,8 +45,8 @@
 
 
 	/* Update the following 2 lines in order to receive mail from the contact form. */
-	$mail->AddAddress('you@yourdomain.com', 'Your Name'); // Your email address and name
-	$mail->Subject = 'Contact Form Submission'; // Your custom subject
+	$mail->AddAddress('charlestshaw@me.com', 'Tennant Shaw'); // Your email address and name
+	$mail->Subject = 'Contact Form Submission From Portfolio Website'; // Your custom subject
 	
 
 	$message = "Phone: " . $_GET['phone'] . "<br /><br />" . $_GET['message'];
