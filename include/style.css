@@ -37,6 +37,7 @@ h1 {
     font-size:36px;
     line-height:1.44444;
     margin:0.67em 0;
+    color:#D0A83A;
 }
 
 h2 {
@@ -294,11 +295,12 @@ h1 {
     letter-spacing:0.1em;
     font-weight:700;
     width:100%;
+    color:#D0A83A;
 }
 
 h1 a,
 h1 a:hover {
-    color:inherit;
+    color:#D0A83A;
 }
 
 h2 {
@@ -580,12 +582,12 @@ blockquote p:last-of-type {
 }
 
 .logo {
-    background-image:url(images/genesis-logo.svg); /* Change the directory/file location for your logo's image.*/
+    background-image:url(images/WebsiteLogo.png); /* Change the directory/file location for your logo's image.*/
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center center;
-    height:250px; /* Change this height paramater to customize your logo's size. */
-    width:220px; /* Change this width paramater to customize your logo's size. */
+    height:1000px; /* Change this height paramater to customize your logo's size. */
+    width:1000px; /* Change this width paramater to customize your logo's size. */
     z-index:2;
 }
 
@@ -1753,7 +1755,7 @@ label {
 }
 
 #theme-dark h1 {
-    color:#ffffff;
+    color:#D0A83A;
 }
 
 #theme-dark h2 {
